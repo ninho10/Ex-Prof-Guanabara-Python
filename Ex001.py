@@ -1,2 +1,2 @@
 # MOSTRA O CODIGO OLA, MUNDO!
-print(" SOU MENGAO")
+print("OLA, MUNDO !")
