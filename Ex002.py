@@ -3,4 +3,3 @@
 nome = input("digite seu nome ? ")
 print(nome)
 print(" E um prazer te conhecer ")
-
